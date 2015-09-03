@@ -1,0 +1,31 @@
+{
+  "name": "angular-eve-igb",
+  "version": "0.1.0",
+  "authors": [
+    "Thomas Richner <mail@trichner.ch>"
+  ],
+  "description": "Angular service that presents the Eve Online in-game browser javascript methods.",
+  "main": "eveIGB.js",
+  "keywords": [
+    "eveonline",
+    "angular",
+    "img",
+    "eve",
+    "image"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    ".idea",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.5"
+  }
+}
